@@ -70,7 +70,7 @@ h2{
 
  @media only screen and (min-device-width:992px){
     .top-nav-collapse {
-      background: #ffffff;
+      background: rgba(255,255,255,0.8);
       -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
@@ -80,20 +80,20 @@ h2{
     .top-nav-collapse .navbar-brand {
       color: #454545;
       font-size: 18px;
- 	  font-weight: bold;
- 	  margin-left: 1.5em;
+ 	    font-weight: bold;
+ 	    margin-left: 1.5em;
     }
     .top-nav-collapse .nav-item{
       margin-left: 1.25em;
     }
 
     .top-nav-collapse .nav-item .nav-link{
-      color: #575757;
+      color: #252625;
     }
 }
  @media only screen and (min-device-width:300px) and (max-device-width:992px){
  	.navbar {
-      background: #ffffff;
+      background: rgba(255,255,255,0.8);
       -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
@@ -107,6 +107,7 @@ h2{
     }
     .navbar .nav-item{
       margin-left: 1.25em;
+      padding: 0.25em;
     }
 
     .navbar .nav-item .nav-link{
