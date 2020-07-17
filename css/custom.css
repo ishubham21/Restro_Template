@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+j@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 
 body {
     background: #ffffff;
@@ -153,16 +153,16 @@ Owl carousel
   }
 
   .slider .item-first {
-    background-image: url(../images/slider-1.png);
+    background-image: url(../images/slider_1.jpg);
     overflow-x: hidden;
   }
 
   .slider .item-second {
-    background-image: url(../images/slider-2.png);
+    background-image: url(../images/slider_2.jpg);
   }
 
   .slider .item-third {
-    background-image: url(../images/slider-3.png);
+    background-image: url(../images/slider_3.jpg);
   }
   .owl-carousel .caption .col-md-7{
   	background: rgba(0,0,0,0.6);

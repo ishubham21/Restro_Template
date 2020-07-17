@@ -15,7 +15,7 @@ $('#owl-one').owlCarousel({
         }
     },
     autoplay:true,
-    autoplayTimeout:5000,
+    autoplayTimeout:4000,
 });
 
 $('#owl-two').owlCarousel({
